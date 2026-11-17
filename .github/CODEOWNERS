@@ -1,0 +1,6 @@
+# Default owner for everything in the repository.
+*                       @hiranyasemindi
+
+# Area owners. Add teammates here as the project grows.
+/docs/                  @hiranyasemindi
+/.github/               @hiranyasemindi
